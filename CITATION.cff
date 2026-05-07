@@ -1,5 +1,9 @@
 cff-version: 1.2.0
 title: EEE202 Project Evaluator
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20066612
+    description: Archived snapshot of v6.0
 message: >-
   If you use this tool, please cite it using the metadata
   in this file.
