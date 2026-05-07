@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: EEE202 Project Evaluator
+message: >-
+  If you use this tool, please cite it using the metadata
+  in this file.
+type: software
+authors:
+  - given-names: İsmail Can
+    family-names: Dikmen
+    email: can.dikmen@istinye.edu.tr
+    affiliation: Istinye University, Department of Electrical and Electronics Engineering
+    orcid: 'https://orcid.org/0000-0002-7747-7777'
+repository-code: 'https://github.com/DrCanD/eee202-project-evaluator'
+abstract: >-
+  Automated grading tool for student PDF submissions in
+  EEE202 Signals and Systems courses. Scores submissions
+  on a 100-point scale across five rubric sections,
+  detects template contamination, extracts student
+  identity from PDF content, and renames files to a
+  canonical format for instructor convenience.
+keywords:
+  - signals and systems
+  - automated grading
+  - rubric
+  - higher education
+  - PDF processing
+  - educational technology
+license: MIT
+version: '6.0'
+date-released: '2026-05-07'

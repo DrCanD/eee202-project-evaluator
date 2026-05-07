@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Test/runtime artifacts
+*.xlsx
+*.pdf
+*.tmp
+*.pdftext.tmp
+
+# Allow example/template PDFs if you ever add them
+!examples/**/*.pdf
+!docs/**/*.pdf
+
+# Output folders
+output/
+results/
+notlar_v6.xlsx

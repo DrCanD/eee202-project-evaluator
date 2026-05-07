@@ -1,0 +1,6 @@
+pdfplumber>=0.10
+pymupdf>=1.23
+opencv-python-headless>=4.8
+pillow>=10.0
+openpyxl>=3.1
+numpy>=1.24
