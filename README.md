@@ -4,7 +4,7 @@ Automated grading tool for student project submissions in EEE202 Signals and Sys
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![DOI](https://img.shields.io/badge/DOI-pending-orange.svg)]()
+[![DOI](https://zenodo.org/badge/1231701087.svg)](https://doi.org/10.5281/zenodo.20066611)
 
 ## Overview
 
