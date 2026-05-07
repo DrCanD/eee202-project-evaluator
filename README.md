@@ -124,7 +124,10 @@ If you use this tool in academic work, please cite:
 **İ. Can Dikmen**
 Istinye University, Department of Electrical and Electronics Engineering
 [can.dikmen@istinye.edu.tr](mailto:can.dikmen@istinye.edu.tr)
-ORCID: [0000-0002-7747-7777](https://orcid.org/0000-0002-7747-7777)
+
+- ORCID: [0000-0002-7747-7777](https://orcid.org/0000-0002-7747-7777)
+- Google Scholar: [scholar.google.com/citations?user=c4OrnOQAAAAJ](https://scholar.google.com/citations?user=c4OrnOQAAAAJ)
+- GitHub: [@DrCanD](https://github.com/DrCanD)
 
 ## Contributing
 
