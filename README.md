@@ -114,6 +114,7 @@ If you use this tool in academic work, please cite:
   version      = {6.0},
   year         = {2026},
   publisher    = {Istinye University},
+  doi          = {10.5281/zenodo.20066611},
   url          = {https://github.com/DrCanD/eee202-project-evaluator}
 }
 ```
